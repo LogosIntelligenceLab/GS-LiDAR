@@ -17,7 +17,7 @@
 ### Environment
 ```
 # Clone the repo.
-git clone https://github.com/fudan-zvg/GS-LiDAR.git
+git clone https://github.com/LogosIntelligenceLab/GS-LiDAR.git
 cd GS-LiDAR
 
 # Make a conda environment.

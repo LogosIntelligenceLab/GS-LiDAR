@@ -5,7 +5,7 @@ This code implements the renderer of the paper "GS-LiDAR: Generating Realistic L
 
 paper: https://arxiv.org/pdf/2501.13971
 
-homepage: https://github.com/fudan-zvg/GS-LiDAR
+homepage: https://github.com/LogosIntelligenceLab/GS-LiDAR
 
 The cuda code is efficient and good, but it would be more readable with a pure pytorch/python code so readers can have better understanding without needing looking into the cuda implementation. Reader can also implement it with other preferred programming language.
 
